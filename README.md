@@ -1,2 +1,2 @@
 # factorial_calculator
-a factorial calculator 
+a very good factorial calculator 
